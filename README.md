@@ -34,7 +34,6 @@ Setting up the full app with your own mongoDB instance and auth credentials for 
 
 ```shell
 # Clone the simple-dev branch which does not include db and social sign-in stuff
-git clone https://github.com/yogaboll/react-kanban.git -b simple-dev
 
 cd react-kanban
 
@@ -49,9 +48,6 @@ npm run serve
 The app will run on http://127.0.0.1:1337
 
 #### Full setup
-
-```shell
-git clone https://github.com/yogaboll/react-kanban.git
 
 cd react-kanban
 
